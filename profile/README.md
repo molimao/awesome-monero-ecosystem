@@ -57,6 +57,7 @@
 ### Mining
 | Project | Description |
 |---------|-------------|
+| [**IOTA Watch**](https://iotahome.site/en/projects/xmr) | Open-source read-only dashboard for Monero hashrate, workers and reward records reported by Kryptex Pool. |
 | [**P2Pool**](https://gitlab.com/SChernykh/p2pool) | True peer-to-peer pool; keeps mining fully non-custodial. |
 | [**XMRig**](https://github.com/xmrig/xmrig) | Popular high-performance CPU/GPU miner with JSON-RPC & OpenCL/CUDA support. |
 | [**MoneroOcean**](https://moneroocean.stream) | Auto-profit-switching pool that pays out in XMR. |
